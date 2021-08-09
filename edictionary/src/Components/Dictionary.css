@@ -1,0 +1,16 @@
+.dictionary{
+padding: 5px;
+margin: 5px;
+background-color: darkslategray !important;
+}
+.rightcontent{
+padding: 10px;
+margin: 10px;
+background-color: darkseagreen !important;
+}
+.leftcontent{
+    padding: 5px;
+    margin: 5px;
+    background-color: gray !important;
+
+}
